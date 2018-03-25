@@ -1,3 +1,3 @@
 # Shell programming to manipulate files  
 Qusetions of this assingment are given at:  
-s4-shell-programming/lab2/Lab+heet2--Shell-programming-Unixcommands_.pdf
+https://github.com/AindriyaBarua/s4-shell-programming/blob/master/lab2/Lab%2Bheet2--Shell-programming-Unixcommands_.pdf
